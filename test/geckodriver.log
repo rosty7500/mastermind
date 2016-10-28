@@ -1,0 +1,177 @@
+1477551004470	geckodriver	INFO	Listening on 127.0.0.1:59246
+1477551015015	geckodriver	INFO	Listening on 127.0.0.1:59255
+1477551276128	geckodriver	INFO	Listening on 127.0.0.1:59353
+1477551672107	geckodriver	INFO	Listening on 127.0.0.1:49714
+1477551674131	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.2E3RljAw3gal
+1477551674144	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477551674181	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49720
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-86933296649e983d9bad.f48f4bedc28f.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1477552410673	geckodriver	INFO	Listening on 127.0.0.1:50310
+1477552412690	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.qY912CqD49Lv
+1477552412697	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477552412711	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50316
+1477552414115	Marionette	INFO	Listening on port 50316
+1477552417639	Marionette	INFO	startBrowser 057ee371-8e69-4b1a-8f10-c63ce4d94787
+JavaScript error: http://mastermindmanage:Ew%7BUVx,)J4*b@mastermind.managedcoder.com/frontend/js/group-header-progress-bar.js, line 1: ReferenceError: $ is not defined
+1477636772018	geckodriver	INFO	Listening on 127.0.0.1:52908
+1477636774024	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.NzKvpkkvQAX7
+1477636774040	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477636774061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52914
+1477636775283	Marionette	INFO	Listening on port 52914
+1477636777954	Marionette	INFO	startBrowser c8d6cf12-2f65-4a27-9ea2-6ed37c4c29d5
+1477636984751	geckodriver	INFO	Listening on 127.0.0.1:52989
+1477636986790	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.PmCRCOd0JE0G
+1477636986809	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477636986828	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52995
+1477636987994	Marionette	INFO	Listening on port 52995
+1477636990681	Marionette	INFO	startBrowser 1755e9e8-acc3-4baa-93f6-753505f6227a
+[Child 7800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477637282936	geckodriver	INFO	Listening on 127.0.0.1:64244
+1477637284958	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.cHcpkhItByb6
+1477637284970	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637284981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64250
+1477637286146	Marionette	INFO	Listening on port 64250
+1477637288624	Marionette	INFO	startBrowser a3fe6165-b419-4bfa-8233-8c7dcdad1a32
+1477637323922	geckodriver	INFO	Listening on 127.0.0.1:63536
+1477637325948	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.ZRwadOYZ5Iuq
+1477637325956	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637325969	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63542
+1477637327189	Marionette	INFO	Listening on port 63542
+1477637329835	Marionette	INFO	startBrowser ceffabcb-9ca0-411c-959b-f4a8a915a762
+1477637394696	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1477637423891	geckodriver	INFO	Listening on 127.0.0.1:63596
+1477637425905	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.UvgcMFBX5obE
+1477637425925	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637425945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63602
+1477637427163	Marionette	INFO	Listening on port 63602
+1477637429837	Marionette	INFO	startBrowser 8cf800c1-7940-40e0-ae92-338447fed51a
+1477637501719	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8240] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477637686883	geckodriver	INFO	Listening on 127.0.0.1:58046
+1477637688916	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.0iSHnJKIcZzU
+1477637688933	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637688957	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58052
+1477637690100	Marionette	INFO	Listening on port 58052
+1477637692540	Marionette	INFO	startBrowser 29faaff4-65b9-4b6a-be4a-5080b9b1f101
+1477637723935	geckodriver	INFO	Listening on 127.0.0.1:58104
+1477637725956	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.b63RDuTBlNNb
+1477637725965	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637725986	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58110
+1477637727178	Marionette	INFO	Listening on port 58110
+1477637729617	Marionette	INFO	startBrowser 36b82d9d-a567-430a-8aa6-38b6e0e490e1
+1477637796562	geckodriver	INFO	Listening on 127.0.0.1:51485
+1477637798582	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.IsylZ3aLl4D3
+1477637798597	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477637798620	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51491
+1477637799863	Marionette	INFO	Listening on port 51491
+1477637802150	Marionette	INFO	startBrowser d7413258-938d-412f-ac8e-642db3735fa1
+[Child 6424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: , line 0: NetworkError: A network error occurred.
+[Child 3612] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3612] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477637905389	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+3424
+1477637905303	Marionette	INFO	startBrowser bb7acfd8-8845-4cbd-b8f3-37254ddc942b
+1477637973771	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1477638033161	geckodriver	INFO	Listening on 127.0.0.1:53533
+1477638035171	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.31E0k74XxcpK
+1477638035176	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477638035184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53539
+1477638036676	Marionette	INFO	Listening on port 53539
+1477638039247	Marionette	INFO	startBrowser 27059a88-dc0b-4660-9724-8bbcf059eb94
+1477638056497	geckodriver	INFO	Listening on 127.0.0.1:53577
+1477638058512	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.2DIERxkurUIQ
+1477638058543	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477638058560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53583
+1477638060116	Marionette	INFO	Listening on port 53583
+1477638063448	Marionette	INFO	startBrowser cc90fafd-e806-4d84-9e8a-58e1accb07ad
+1477645184245	geckodriver	INFO	Listening on 127.0.0.1:56993
+1477645186249	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.oAfliiuQT8aq
+1477645186249	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477645186264	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56999
+1477645187602	Marionette	INFO	Listening on port 56999
+1477645190296	Marionette	INFO	startBrowser 34061dab-3d43-4147-9bc2-9f6729dbad75
+[Child 9840] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 9840] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477645328653	geckodriver	INFO	Listening on 127.0.0.1:57065
+1477645330678	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.83KVQrARQBly
+1477645330678	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477645330694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57071
+1477645331989	Marionette	INFO	Listening on port 57071
+1477645334720	Marionette	INFO	startBrowser 3a9916b8-260e-4364-aeac-0fc4a8ab20eb
+[Child 3692] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 3692] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477645948567	geckodriver	INFO	Listening on 127.0.0.1:57146
+1477645950569	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.IvwXqLFzLmmn
+1477645950584	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477645950605	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57152
+1477645951806	Marionette	INFO	Listening on port 57152
+1477645954354	Marionette	INFO	startBrowser 9138f4df-850c-49aa-8b7d-cf1d5ef37227
+[Child 9340] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477646685257	geckodriver	INFO	Listening on 127.0.0.1:57291
+1477646687276	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.tjIf6OQtxCTE
+1477646687290	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477646687309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57297
+1477646688493	Marionette	INFO	Listening on port 57297
+1477646691020	Marionette	INFO	startBrowser 34547374-ca87-42dd-8188-9dfc212dc37a
+1477646777197	geckodriver	INFO	Listening on 127.0.0.1:57379
+1477646779214	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.vxSARU1GxpCG
+1477646779227	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477646779253	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57385
+1477646780321	Marionette	INFO	Listening on port 57385
+1477646782724	Marionette	INFO	startBrowser bde67b51-1025-4fc7-9a00-e473f5c403a3
+[Child 9184] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477646928132	geckodriver	INFO	Listening on 127.0.0.1:57480
+1477646930152	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.dthKAjtnEf1r
+1477646930165	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477646930189	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57486
+1477646931455	Marionette	INFO	Listening on port 57486
+1477646933914	Marionette	INFO	startBrowser b136dc6f-e711-4d55-97f4-e783646611ab
+1477646973689	geckodriver	INFO	Listening on 127.0.0.1:57529
+1477646975704	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.W7rvW4Lgc5EO
+1477646975713	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477646975728	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57535
+1477646976881	Marionette	INFO	Listening on port 57535
+1477646979330	Marionette	INFO	startBrowser 2cf3f678-f604-44d5-be9d-b122873bd16e
+[Child 7752] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1477650633521	geckodriver	INFO	Listening on 127.0.0.1:58069
+1477650635531	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sS2KRk0Eldr0
+1477650635542	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477650635570	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58075
+1477650637087	Marionette	INFO	Listening on port 58075
+1477650640133	Marionette	INFO	startBrowser 8768f039-6f36-4165-abb1-7994bd73d8b6
+[Child 2840] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+.umv7M97v9lVo
+1477650670838	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477650670872	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58120
+1477650672288	Marionette	INFO	Listening on port 58120
+1477650674890	Marionette	INFO	startBrowser cd0a5907-1674-4fcc-b9d2-238b388ca1ed
+[Child 9472] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477651865687	geckodriver	INFO	Listening on 127.0.0.1:58571
+1477651867700	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.qkfoy8iXsidn
+1477651867716	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477651867731	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58577
+1477651868874	Marionette	INFO	Listening on port 58577
+1477651871366	Marionette	INFO	startBrowser 71f19d90-a19f-4a35-a815-43aa8c7fa721
