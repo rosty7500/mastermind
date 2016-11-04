@@ -175,3 +175,658 @@ JavaScript error: , line 0: NetworkError: A network error occurred.
 1477651867731	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58577
 1477651868874	Marionette	INFO	Listening on port 58577
 1477651871366	Marionette	INFO	startBrowser 71f19d90-a19f-4a35-a815-43aa8c7fa721
+1477908440042	geckodriver	INFO	Listening on 127.0.0.1:51728
+1477908442106	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.2VTeylCmJbVN
+1477908442170	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477908442205	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51734
+1477908444666	Marionette	INFO	Listening on port 51734
+1477908447564	Marionette	INFO	startBrowser 8d2b8bf5-1521-4409-8c98-a30c6ee93750
+1477908702922	geckodriver	INFO	Listening on 127.0.0.1:51858
+1477908704900	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.5qnRrz2SWue7
+1477908704916	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477908704933	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51864
+1477908706921	Marionette	INFO	Listening on port 51864
+1477908709527	Marionette	INFO	startBrowser a4fe35d9-4d22-4146-b040-8e9c036f898b
+1477908782252	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.oVYnXHksfaad
+1477908781295	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477908781321	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51974
+1477908783468	Marionette	INFO	Listening on port 51974
+1477908785939	Marionette	INFO	startBrowser fe7db7a7-4e0d-4f1e-ad93-93c50e33c1e4
+1477909270743	geckodriver	INFO	Listening on 127.0.0.1:52103
+1477909272719	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.YaQ8vz2xBKdw
+1477909272741	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477909272767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52109
+1477909274801	Marionette	INFO	Listening on port 52109
+1477909277094	Marionette	INFO	startBrowser 3337362f-2a6f-4f87-afbb-6517d8d26a5a
+[Child 8160] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+1477909390437	geckodriver	INFO	Listening on 127.0.0.1:52202
+1477909392447	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.3tjP7GbVsh0S
+1477909392463	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477909392483	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52208
+1477909393688	Marionette	INFO	Listening on port 52208
+1477909396252	Marionette	INFO	startBrowser 337f6baf-61b2-4340-b440-03ffd6d1b16f
+[Child 5476] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477909463281	geckodriver	INFO	Listening on 127.0.0.1:52305
+1477909465301	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.V0TH3wSQmMLd
+1477909465312	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477909465323	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52311
+1477909466653	Marionette	INFO	Listening on port 52311
+1477909469153	Marionette	INFO	startBrowser a4b561b6-53e1-4ab1-a687-7dbf8625c552
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 3272] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1477909612393	geckodriver	INFO	Listening on 127.0.0.1:52407
+1477909614405	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.fUE8ETHciHNe
+1477909614410	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477909614421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52413
+1477909615726	Marionette	INFO	Listening on port 52413
+1477909618125	Marionette	INFO	startBrowser df53e239-33b1-4737-b7b9-c1df9205becc
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 472: TypeError: this.tablesData[table] is undefined
+[Child 9412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9412] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477909638000	geckodriver	INFO	Listening on 127.0.0.1:52438
+1477909640032	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.vTS3S5QXbSru
+1477909640047	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477909640081	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52444
+1477909641235	Marionette	INFO	Listening on port 52444
+1477909643815	Marionette	INFO	startBrowser 7d91bd16-2f81-4d6c-aa60-ab7dcddd3ed3
+[Child 7788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477911351467	geckodriver	INFO	Listening on 127.0.0.1:53012
+1477911353477	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Q1b0Rcqytn5K
+1477911353486	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477911353502	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53018
+1477911354808	Marionette	INFO	Listening on port 53018
+1477911357407	Marionette	INFO	startBrowser 362013c2-e791-4711-a9f5-2db77f1b3400
+1477911485461	geckodriver	INFO	Listening on 127.0.0.1:53117
+1477911487482	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.ObvZIdc49tTG
+1477911487499	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477911487524	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53123
+1477911488839	Marionette	INFO	Listening on port 53123
+1477911491432	Marionette	INFO	startBrowser 02df3d86-74d5-4447-b6a6-9902f6dcee68
+[Child 3432] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477911866799	geckodriver	INFO	Listening on 127.0.0.1:53247
+1477911868818	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.gjV3o9Qoq0xq
+1477911868818	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477911868834	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53253
+1477911870159	Marionette	INFO	Listening on port 53253
+1477911872711	Marionette	INFO	startBrowser 4d20fadc-cdb1-48e1-a960-b8c02b1acf0b
+1477911874250	geckodriver	INFO	Listening on 127.0.0.1:53279
+1477911876238	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.DvgZThpSkOnW
+1477911876243	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477911876251	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53286
+1477911877409	Marionette	INFO	Listening on port 53286
+1477911880142	Marionette	INFO	startBrowser f5079c10-acb8-4026-910d-625db9549791
+1477911921457	geckodriver	INFO	Listening on 127.0.0.1:53318
+1477911923477	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.VHQuNCxZRdyZ
+1477911923493	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477911923521	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53324
+1477911924691	Marionette	INFO	Listening on port 53324
+1477911927390	Marionette	INFO	startBrowser 8983cc27-88e3-41be-aeac-56f3f8f2060d
+[Child 8236] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477912140073	geckodriver	INFO	Listening on 127.0.0.1:53410
+1477912142089	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.6RSToTyP2Ap4
+1477912142089	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912142105	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53417
+1477912143247	Marionette	INFO	Listening on port 53417
+1477912145894	Marionette	INFO	startBrowser d3432d56-ac65-4c5c-8b7b-bad5df3696be
+[Child 2224] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477912282447	geckodriver	INFO	Listening on 127.0.0.1:53522
+1477912284484	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.wJo6X8qTorhK
+1477912284502	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912284526	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53528
+1477912285890	Marionette	INFO	Listening on port 53528
+1477912288446	Marionette	INFO	startBrowser 3cd8171d-7c29-4956-811a-0148fd7c64c7
+JavaScript error: , line 0: NetworkError: A network error occurred.
+[Child 1500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477912411219	geckodriver	INFO	Listening on 127.0.0.1:53627
+1477912413232	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.LMmO3jPVlxHv
+1477912413253	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912413274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53633
+1477912414624	Marionette	INFO	Listening on port 53633
+1477912417159	Marionette	INFO	startBrowser 52f90a2f-3b16-46dc-ad21-080d531a683c
+[Child 7584] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477912645138	geckodriver	INFO	Listening on 127.0.0.1:53737
+1477912647148	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.34a7hui5wa5z
+1477912647163	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912647190	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53743
+1477912648299	Marionette	INFO	Listening on port 53743
+1477912650828	Marionette	INFO	startBrowser 3bec4645-7ef6-4be7-819a-908e3cd8f4a5
+1477912709607	geckodriver	INFO	Listening on 127.0.0.1:53828
+1477912711654	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.wfxSyfrH1Hbt
+1477912711654	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912711685	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53834
+1477912712861	Marionette	INFO	Listening on port 53834
+1477912715345	Marionette	INFO	startBrowser 613345f1-d9d2-4651-bb6b-eb3ed8c65e41
+[Child 4628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477912945166	geckodriver	INFO	Listening on 127.0.0.1:53937
+1477912947178	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.xVC5nI3gXkal
+1477912947193	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477912947210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53943
+1477912948410	Marionette	INFO	Listening on port 53943
+1477912950903	Marionette	INFO	startBrowser 3e92a859-ff5f-4c68-ae90-a55def328a1a
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4496] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477913032397	geckodriver	INFO	Listening on 127.0.0.1:54040
+1477913034411	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.jDc20JHYVtAz
+1477913034426	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477913034450	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54046
+1477913035601	Marionette	INFO	Listening on port 54046
+1477913038078	Marionette	INFO	startBrowser b37862d3-4ee3-48e5-a97b-91d70112a780
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 9316] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1477913548258	geckodriver	INFO	Listening on 127.0.0.1:54272
+1477913550275	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.iRqFv8tbomHF
+1477913550341	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477913550369	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54278
+1477913551463	Marionette	INFO	Listening on port 54278
+1477913554005	Marionette	INFO	startBrowser 76e3c41d-a4f8-4f69-9790-12a652021344
+[Child 5884] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477913591865	geckodriver	INFO	Listening on 127.0.0.1:54376
+1477913593863	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.8I0l1JTceLAS
+1477913593884	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477913593904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54383
+1477913595061	Marionette	INFO	Listening on port 54383
+1477913597454	Marionette	INFO	startBrowser 9ddc9e57-8178-4f0e-bd3e-93635d63e8a2
+[Child 6012] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477976680877	geckodriver	INFO	Listening on 127.0.0.1:56103
+1477976682820	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.tqKrdJIjamG6
+1477976682846	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477976682874	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56109
+1477976684441	Marionette	INFO	Listening on port 56109
+1477976686451	Marionette	INFO	startBrowser 640db5c1-ff9b-47be-bb4d-fbadc0f852d8
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 219: TypeError: this._mm is null
+[Child 9732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477983513867	geckodriver	INFO	Listening on 127.0.0.1:56815
+1477983515879	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.0IPQQ8oZ6qq8
+1477983515899	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477983515917	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56821
+1477983517342	Marionette	INFO	Listening on port 56821
+1477983520385	Marionette	INFO	startBrowser ad9ee134-7a63-4c45-80a5-d9daa538870e
+[Child 10088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+onnecting to Marionette on localhost:56891
+1477983635760	Marionette	INFO	Listening on port 56891
+1477983638626	Marionette	INFO	startBrowser 9d938f8f-d749-4fc2-a724-30f7acec507f
+1477984705994	geckodriver	INFO	Listening on 127.0.0.1:57194
+1477984708016	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Pn2KnGGdU7bi
+1477984708032	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477984708061	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57200
+1477984709983	Marionette	INFO	Listening on port 57200
+1477984713162	Marionette	INFO	startBrowser 9edaeb82-b6f3-46c7-bcac-680977e7be99
+[Child 7420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1477984864785	geckodriver	INFO	Listening on 127.0.0.1:58332
+1477984866795	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.lA74NWNaUOgD
+1477984866823	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477984866856	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58338
+1477984868652	Marionette	INFO	Listening on port 58338
+1477984871480	Marionette	INFO	startBrowser 6c75e850-bc3c-495e-a3f6-3a490c282781
+[Child 8724] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 8724] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477984992973	geckodriver	INFO	Listening on 127.0.0.1:58400
+1477984994997	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.xECo4sGfircz
+1477984995012	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477984995070	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58406
+1477984996606	Marionette	INFO	Listening on port 58406
+1477984999883	Marionette	INFO	startBrowser bf75db49-987d-4267-9bc9-ac1cffa6309a
+[Child 6120] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477985206593	geckodriver	INFO	Listening on 127.0.0.1:58469
+1477985208610	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.w0Y5YF2iaVwQ
+1477985208637	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477985208674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58475
+1477985210332	Marionette	INFO	Listening on port 58475
+1477985213244	Marionette	INFO	startBrowser 986a149c-aeb8-4051-b951-9ba01a94ff46
+[Child 1408] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 1408] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477986258924	geckodriver	INFO	Listening on 127.0.0.1:55119
+1477986260945	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.3TjSLEKBCkfl
+1477986260963	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477986261001	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55125
+1477986262606	Marionette	INFO	Listening on port 55125
+1477986265272	Marionette	INFO	startBrowser f809a68b-e618-45cb-9afb-d18a7c25c918
+[Child 10180] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477987090187	geckodriver	INFO	Listening on 127.0.0.1:55249
+1477987092217	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.YY1Eugs5CCBl
+1477987092231	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477987092275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55255
+1477987093833	Marionette	INFO	Listening on port 55255
+1477987096765	Marionette	INFO	startBrowser 9a1c13a2-2798-445e-aac3-199170c454e3
+[Child 4300] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477987152911	geckodriver	INFO	Listening on 127.0.0.1:55304
+1477987154927	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.UeIC0CI9VJGj
+1477987154942	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477987154974	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55310
+1477987156707	Marionette	INFO	Listening on port 55310
+1477987159804	Marionette	INFO	startBrowser 2d102d74-bf15-4e60-a38c-b420053e2934
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x900001,name=PLayer::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFA0005,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x400003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 448] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477987235576	geckodriver	INFO	Listening on 127.0.0.1:55370
+1477987237600	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.UNetka1kSFdR
+1477987237628	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477987237666	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55376
+1477987239254	Marionette	INFO	Listening on port 55376
+1477987241998	Marionette	INFO	startBrowser 769c3bf9-b38a-45e1-b170-097b8bb68009
+[Child 3500] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 3500] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477989344196	geckodriver	INFO	Listening on 127.0.0.1:55541
+1477989346235	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.xj5jkPyLrc7I
+1477989346239	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477989346274	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55547
+1477989347837	Marionette	INFO	Listening on port 55547
+1477989350641	Marionette	INFO	startBrowser b701f510-08c3-4e4c-80f8-04d942417eb3
+[Child 7980] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 7980] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477989548675	geckodriver	INFO	Listening on 127.0.0.1:55625
+1477989550690	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.jdYn9jz4fYwy
+1477989550706	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477989550760	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55631
+1477989552371	Marionette	INFO	Listening on port 55631
+1477989555132	Marionette	INFO	startBrowser 2cfd3cb3-4c51-4c8f-8a4e-405b784db990
+[Child 9168] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 9168] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477990607103	geckodriver	INFO	Listening on 127.0.0.1:55861
+1477990609033	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sQCcyarhnva1
+1477990609051	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477990609070	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55867
+1477990610409	Marionette	INFO	Listening on port 55867
+1477990613412	Marionette	INFO	startBrowser 299610d6-bb17-4bf9-ac8f-48fe9193a5a0
+[Child 5652] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 5652] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477992283947	geckodriver	INFO	Listening on 127.0.0.1:56130
+1477992285959	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.SmFWT4ZW22Rm
+1477992285989	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477992286024	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56136
+1477992287575	Marionette	INFO	Listening on port 56136
+1477992290399	Marionette	INFO	startBrowser 2a8a006f-8cd8-4991-a23c-0c7c69aa9253
+[Child 2816] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477992732916	geckodriver	INFO	Listening on 127.0.0.1:56243
+1477992734940	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.ZyZe6WOOInp7
+1477992734966	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477992734981	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56250
+1477992736420	Marionette	INFO	Listening on port 56250
+1477992739254	Marionette	INFO	startBrowser 2f525732-f53c-4b69-b24a-649fa741ed15
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1477992818981	geckodriver	INFO	Listening on 127.0.0.1:56321
+1477992820983	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.4Oaow7gn5FkT
+1477992820993	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477992821010	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56327
+1477992822571	Marionette	INFO	Listening on port 56327
+1477992825829	Marionette	INFO	startBrowser 43331b11-38b2-4e61-a54e-e6464b1fd543
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1477992914162	geckodriver	INFO	Listening on 127.0.0.1:56398
+1477992916207	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.oW15dqsDUpR7
+1477992916234	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477992916265	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56405
+1477992918266	Marionette	INFO	Listening on port 56405
+1477992921662	Marionette	INFO	startBrowser 3ee1fbbf-9499-4b8e-8320-be48218da9f5
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+[Child 7900] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477993060863	geckodriver	INFO	Listening on 127.0.0.1:56485
+1477993062871	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.B52fH4cJVcpS
+1477993062871	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477993062886	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56491
+1477993065153	Marionette	INFO	Listening on port 56491
+1477993068426	Marionette	INFO	startBrowser 856c9f59-80ea-4046-b7d0-47e01fc743e9
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+[Child 6656] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477993393936	geckodriver	INFO	Listening on 127.0.0.1:56649
+1477993395937	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.e4AbzjRP1cmP
+1477993395952	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477993396004	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56655
+1477993398370	Marionette	INFO	Listening on port 56655
+1477993401408	Marionette	INFO	startBrowser 1d4c393c-8b40-4adc-a810-b4007312be59
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+[Child 6628] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477993524662	geckodriver	INFO	Listening on 127.0.0.1:56729
+1477993526697	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Q2HRhNxmr7sl
+1477993526697	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477993526750	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56735
+1477993528296	Marionette	INFO	Listening on port 56735
+1477993531200	Marionette	INFO	startBrowser a3262236-5996-45f5-8513-58931e4d92d0
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+[Child 7636] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477993938228	geckodriver	INFO	Listening on 127.0.0.1:56982
+1477993940242	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.XurLpB0eDc2O
+1477993940255	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477993940278	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56988
+1477993941792	Marionette	INFO	Listening on port 56988
+1477993945085	Marionette	INFO	startBrowser 52c04869-544c-4e02-a28b-f8ab9b63000b
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1477994569981	geckodriver	INFO	Listening on 127.0.0.1:57351
+1477994572006	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.SeqxFrXyHNZU
+1477994572031	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477994572065	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57357
+1477994573822	Marionette	INFO	Listening on port 57357
+1477994577057	Marionette	INFO	startBrowser b0375ac3-6fe2-4321-b163-92288163af35
+[Child 4944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4944] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4800] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+	Connecting to Marionette on localhost:57424
+1477994663360	Marionette	INFO	Listening on port 57424
+1477994666402	Marionette	INFO	startBrowser 11c76084-6f0b-43f9-afff-a2e52104aa1d
+1477994745055	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1477994785691	geckodriver	INFO	Listening on 127.0.0.1:57493
+1477994787717	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.2O9rliZ6PmDr
+1477994787732	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477994787779	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57499
+1477994790335	Marionette	INFO	Listening on port 57499
+1477994793619	Marionette	INFO	startBrowser 10209105-f3f9-47c7-8639-101cabd553e2
+[Child 6732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10436] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477994884153	geckodriver	INFO	Listening on 127.0.0.1:57571
+1477994886176	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.wRoZN7dEEp4L
+1477994886200	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477994886228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57577
+1477994887808	Marionette	INFO	Listening on port 57577
+1477994890884	Marionette	INFO	startBrowser 03dc1157-48d4-47cf-b907-18407bd199c9
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+[Child 7056] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2052
+1477995203685	geckodriver	INFO	Listening on 127.0.0.1:57650
+1477995205729	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.RPsN1OLInLQA
+1477995205750	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477995205780	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57656
+1477995207598	Marionette	INFO	Listening on port 57656
+1477995210304	Marionette	INFO	startBrowser 0bbf20db-9451-44d5-86fd-6fb90d985324
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1477995276857	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1477995326695	geckodriver	INFO	Listening on 127.0.0.1:49911
+1477995328713	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.ryVwwzRUAojo
+1477995328729	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477995328778	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49917
+1477995330847	Marionette	INFO	Listening on port 49917
+1477995333938	Marionette	INFO	startBrowser 26eb2bb0-76c5-4f4a-9b33-3a925721c1d4
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1477999165678	geckodriver	INFO	Listening on 127.0.0.1:53489
+1477999167627	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.RwUOh2WVYX1e
+1477999167627	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1477999167661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53495
+1477999169505	Marionette	INFO	Listening on port 53495
+1477999172333	Marionette	INFO	startBrowser 7fcd164e-6377-44bd-b727-ae8a7ce9e8db
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1478000675685	geckodriver	INFO	Listening on 127.0.0.1:53686
+1478000677700	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sBOA3ErXrdTO
+1478000677718	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478000677732	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53692
+1478000679431	Marionette	INFO	Listening on port 53692
+1478000681964	Marionette	INFO	startBrowser 9bf286b5-ce2b-411c-9b25-837dddbd2b14
+1478000963503	geckodriver	INFO	Listening on 127.0.0.1:53792
+1478000965487	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.GsQITiCN1dOK
+1478000965502	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478000965534	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53798
+1478000967323	Marionette	INFO	Listening on port 53798
+1478000970039	Marionette	INFO	startBrowser 966fecbc-ef89-4e01-9060-bf5b679a82ec
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1478001351696	geckodriver	INFO	Listening on 127.0.0.1:53966
+1478001353672	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.VYdKJXohnEj9
+1478001353687	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478001353731	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53972
+1478001355574	Marionette	INFO	Listening on port 53972
+1478001358231	Marionette	INFO	startBrowser 0529a0ea-fd8f-4dd6-a690-6c919b13e028
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1478001513674	geckodriver	INFO	Listening on 127.0.0.1:54058
+1478001515697	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.5B3taFOMRJxK
+1478001515723	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478001515734	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54064
+1478001517148	Marionette	INFO	Listening on port 54064
+1478001520057	Marionette	INFO	startBrowser 103045e6-9669-4773-bf83-5ddc3e2409e1
+1478001594290	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.tSfFzl3ACcLo
+1478001576522	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478001576536	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54117
+1478001578011	Marionette	INFO	Listening on port 54117
+1478001580662	Marionette	INFO	startBrowser 950cd4bc-c3ef-45ce-893b-197b5f32f553
+1478001776570	geckodriver	INFO	Listening on 127.0.0.1:54195
+1478001778595	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.I0hB4cV9tl9C
+1478001778604	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478001778629	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54201
+1478001780784	Marionette	INFO	Listening on port 54201
+1478001783791	Marionette	INFO	startBrowser 9b5e43f8-1438-43dd-b8dc-52a49172f057
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1478001876413	geckodriver::marionette	ERROR	Failed to kill browser process
+1478002625194	geckodriver	INFO	Listening on 127.0.0.1:54418
+1478002627234	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.n7K7B8unzE7r
+1478002627242	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478002627254	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54424
+1478002628816	Marionette	INFO	Listening on port 54424
+1478002631249	Marionette	INFO	startBrowser 11e7bb71-02fb-4c55-bd12-080d21073eb2
+[Child 10332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1478007023541	geckodriver	INFO	Listening on 127.0.0.1:55389
+1478007025544	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.sVhvS2VBSD3n
+1478007025544	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007025560	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55395
+1478007026783	Marionette	INFO	Listening on port 55395
+1478007029409	Marionette	INFO	startBrowser fbcc0458-d659-4968-bdf5-bab696d5f380
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+1478007212298	geckodriver	INFO	Listening on 127.0.0.1:55524
+1478007214318	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Gn6wIRBWK2Op
+1478007214336	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007214352	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55530
+1478007215615	Marionette	INFO	Listening on port 55530
+1478007217966	Marionette	INFO	startBrowser 3fb07490-673a-44bc-b9e2-560123ebcbb7
+1478007240181	geckodriver::marionette	ERROR	Failed to kill browser process
+1478007264784	geckodriver	INFO	Listening on 127.0.0.1:55581
+1478007266797	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.bgFjJqmTG8VT
+1478007266819	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007266837	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55587
+1478007267976	Marionette	INFO	Listening on port 55587
+1478007270510	Marionette	INFO	startBrowser 2c315a08-8eca-46dc-8a79-0a9492135a9f
+1478007325035	geckodriver	INFO	Listening on 127.0.0.1:58486
+1478007327057	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Sx5ILO2KuSCe
+1478007327074	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007327093	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58492
+1478007328340	Marionette	INFO	Listening on port 58492
+1478007331059	Marionette	INFO	startBrowser 3d99486c-516e-4995-b944-8d4a310b2dfd
+1478007426598	geckodriver	INFO	Listening on 127.0.0.1:58515
+1478007428621	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.Ii3XNZMe2GW2
+1478007428647	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007428674	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58521
+1478007430152	Marionette	INFO	Listening on port 58521
+1478007433101	Marionette	INFO	startBrowser 392c617e-f53c-44c5-b286-8f2e9adc63b9
+[Child 1820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1820] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1478007480244	geckodriver::marionette	ERROR	Failed to kill browser process
+1478007592748	geckodriver	INFO	Listening on 127.0.0.1:58582
+1478007594772	mozprofile::profile	INFO	Using profile path C:\Users\admin\AppData\Local\Temp\rust_mozprofile.BTIB2IJW5yED
+1478007594779	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1478007594797	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58589
+1478007596243	Marionette	INFO	Listening on port 58589
+1478007599261	Marionette	INFO	startBrowser 1845125d-879b-4683-a969-8c69b6ed7c80
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
+JavaScript error: http://mastermind.managedcoder.com/frontend/js/rate-slider/jquery-ui-slider-pips.js, line 812: ReferenceError: jQuery is not defined
+JavaScript error: http://mastermind.managedcoder.com/js/jquery-2.1.1.js, line 250: Error: no such method 'pips' for slider widget instance
